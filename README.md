@@ -5,9 +5,9 @@
 Install it and run:
 
 ```bash
-yarn install
-yarn start
+npm install
+npm start
 ```
 
 ## Idea behind the example
-This is a basic example of how to use Material UI with razzle.
+This is a basic example of how to use Material UI.
